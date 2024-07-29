@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# State files
+state/
+
+# Package lock
+package-lock.json

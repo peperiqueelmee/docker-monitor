@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Git files
+.gitignore
+
+# State files
+state/
+
+# Dockerfile and example.env
+Dockerfile
+example.env

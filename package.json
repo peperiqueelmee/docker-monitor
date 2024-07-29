@@ -1,0 +1,19 @@
+{
+  "name": "docker-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/start.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dockerode": "^4.0.2",
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "lodash": "^4.17.21",
+    "nodemailer": "^6.9.14"
+  }
+}
