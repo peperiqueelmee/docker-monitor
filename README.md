@@ -3,6 +3,9 @@
 ## Overview
 
 This repository contains a Node.js application designed to monitor the state of Docker containers and send email notifications about any changes. It checks for container state changes and sends detailed email notifications with a table of changes. The tool is particularly useful for keeping track of container states and being promptly informed of any changes.
+## Email Notification Example
+
+![Email Notification Example](docs/email-screenshot.png)
 
 ## Prerequisites
 
